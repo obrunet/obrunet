@@ -6,4 +6,4 @@ https://obrunet.github.io/
 
 Some technologies, I enjoy working with include Spark, Sci-kit Learn, Tensorflow, Kafka, Kubernetes...
 
-I use to code Python, Scala, Shell & SQL and wish to learn Go. Also interested in quantum computing, blockchain & crytocurrencies, mlware analysis & reverse engineering.
+Also interested in quantum computing, blockchain, I use to code Python, Scala, Shell & SQL and wish to learn Go. 
