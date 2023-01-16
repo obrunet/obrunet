@@ -12,7 +12,7 @@ Some technologies, I enjoy working with include Spark, Scikit Learn, Tensorflow 
 
 - 👨‍💻 All of my projects are available at **[https://obrunet.github.io/](https://obrunet.github.io/)**
 
-- 💬 Ask me about **Memory Training**, all my anki decks, memory palaces and systems can be found [here](https://obrunet.github.io/)
+- 💬 Ask me about **Memory Training**, all my anki decks, mind palaces and systems can be found [here](https://obrunet.github.io/)
 
 - ⚡ Stay **curious** !
 
