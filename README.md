@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there👋, I'm Olivier Brunet</h1>
+<h1 align="center">Hi there, I'm Olivier Brunet</h1>
 <h3 align="center">Data Scientist  | Cloud & Machine Learning enthusiast</h3>
 
 Welcome to my GitHub.  Passionate about open source, new technologies & ML, I frequently publish posts on my web site.
