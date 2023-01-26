@@ -6,8 +6,6 @@ Welcome to my GitHub.  Passionate about open source, new technologies & ML, I fr
 
 Some technologies, I enjoy working with include Spark, Scikit Learn, Tensorflow / Keras, Pytorch, Kafka, Kubernetes... Also interested in quantum computing, blockchain, I use to code in Python, Shell & SQL and wish to learn Go.
 
-<img src="https://github.com/obrunet/obrunet/blob/main/banner_ai.jpg"/>
-
 - 🌱 I’m currently learning computer vision & natural language processing
 
 - 👨‍💻 All of my projects are available at **[https://obrunet.github.io/](https://obrunet.github.io/)**
@@ -18,3 +16,5 @@ Some technologies, I enjoy working with include Spark, Scikit Learn, Tensorflow 
 
 Made with ❤, by Olivier Brunet
     
+
+<img src="https://github.com/obrunet/obrunet/blob/main/banner_ai.jpg"/>
