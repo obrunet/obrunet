@@ -16,5 +16,4 @@ Some technologies, I enjoy working with include Spark, Scikit Learn, Tensorflow 
 
 Made with ❤, by Olivier Brunet
     
-
 <img src="https://github.com/obrunet/obrunet/blob/main/banner_ai.jpg"/>
