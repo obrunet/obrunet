@@ -22,7 +22,7 @@ Some technologies, I enjoy working with include Numpy, Pandas, Polars, SQL, shel
 
 - 🌱 I’m currently learning **computer vision** & **natural language processing**.
 - 👨‍💻 All of my projects are available at **[https://obrunet.github.io/](https://obrunet.github.io/)**
-- 💬 Ask me about **Memory Training**, all my anki decks, mind palaces and systems can be found [here]([https://obrunet.github.io/](https://github.com/obrunet/Memory_systems_-_Anki_decks))
+- 💬 Ask me about **Memory Training**, all my anki decks, mind palaces and systems can be found [here](https://obrunet.github.io/](https://github.com/obrunet/Memory_systems_-_Anki_decks)
 - ⚡ Stay **curious** !
 
 Made with ❤, by Olivier Brunet
