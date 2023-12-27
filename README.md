@@ -6,11 +6,11 @@ Welcome to my GitHub.  Passionate about open source, new technologies & ML, I fr
 
 Some technologies, I enjoy working with include Numpy, Pandas, Polars, SQL, shell... and Scikit Learn, Pytorch, Spark, Kubernetes... Also interested in cyber security - Pythonistas & Rustacean !
 
-- 🌱 I’m currently learning computer vision & natural language processing
+- 🌱 I’m currently learning **computer vision** & **natural language processing**.
 
 - 👨‍💻 All of my projects are available at **[https://obrunet.github.io/](https://obrunet.github.io/)**
 
-- 💬 Ask me about **Memory Training**, all my anki decks, mind palaces and systems can be found [here](https://obrunet.github.io/)
+- 💬 Ask me about **Memory Training**, all my anki decks, mind palaces and systems can be found [here]([https://obrunet.github.io/](https://github.com/obrunet/Memory_systems_-_Anki_decks))
 
 - ⚡ Stay **curious** !
 
