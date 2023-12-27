@@ -7,7 +7,6 @@ Welcome to my GitHub.  Passionate about open source, new technologies & ML, I fr
 Some technologies, I enjoy working with include Numpy, Pandas, Polars, SQL, shell... and Scikit Learn, Pytorch, Spark, Kubernetes... Also interested in cyber security - Pythonista & Rustacean !
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="mlflow" src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue" />
   <img alt="React" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" />
