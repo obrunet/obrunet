@@ -4,7 +4,7 @@
 
 Welcome to my GitHub.  Passionate about open source, new technologies & ML, I frequently publish posts on my web site.
 
-Some technologies, I enjoy working with include Spark, Scikit Learn, Tensorflow / Keras, Pytorch, Kafka, Kubernetes... Also interested in quantum computing, blockchain, I use to code in Python, Shell & SQL and wish to learn Go.
+Some technologies, I enjoy working with include Numpy, Pandas, Polars, SQL, shell... and Scikit Learn, Pytorch, Spark, Kubernetes... Also interested in cyber security - Pythonistas & Rustacean !
 
 - 🌱 I’m currently learning computer vision & natural language processing
 
