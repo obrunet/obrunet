@@ -4,7 +4,7 @@
 
 Welcome to my GitHub.  Passionate about open source, new technologies & ML, I frequently publish posts on my web site.
 
-Some technologies, I enjoy working with include Numpy, Pandas, Polars, SQL, shell... and Scikit Learn, Pytorch, Spark, Kubernetes... Also interested in cyber security - Pythonistas & Rustacean !
+Some technologies, I enjoy working with include Numpy, Pandas, Polars, SQL, shell... and Scikit Learn, Pytorch, Spark, Kubernetes... Also interested in cyber security - Pythonista & Rustacean !
 
 - 🌱 I’m currently learning **computer vision** & **natural language processing**.
 
