@@ -29,3 +29,5 @@ Some technologies, I enjoy working with include Numpy, Pandas, Polars, SQL, shel
 Made with ❤, by Olivier Brunet
     
 <img src="https://github.com/obrunet/obrunet/blob/main/banner_ai.jpg"/>
+
+
